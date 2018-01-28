@@ -9,4 +9,7 @@ Pour aller plus loin : https://developer.android.com/guide/components/activities
 Cet exemple montre comment sauvegarder des données à l'aide d'un Bundle.
 Dans cet exemple un compteur est incrémenté, on sauvegarde l'attribut dans le Bundle quand l'activité quitte l'état "running".
 On se sert du Bundle quand l'activité revient dans l'état "running".
+
+## Exemple 03 : démarrer une nouvelle activitée
+Cet exemple montre comment démarrer une nouvelle activité à l'aide d'un Intent et la méthode Activity.startAcivity().
     
